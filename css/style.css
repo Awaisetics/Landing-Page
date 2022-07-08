@@ -168,27 +168,6 @@ header#main-header {
   transition: all 1.5s ease;
 }
 
-#text {
-  position: absolute;
-  bottom: -4rem;
-  left: 50%;
-  transform: translateX(-50%);
-  transition: all .4s;
-}
-
-.first-image:hover > #text {
-  /* transform: scaleY(2.9); */
-  transform: scaleY(7);
-}
-
-
-/* .first-image::after {
-  content: "inceptos";
-  position: absolute;
-  bottom: -2%;
-  left: 50%;
-  transform: translateX(-50%);
-} */
 
 
 
